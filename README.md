@@ -80,21 +80,34 @@
    ```
 
 ## 📁 Struktur Project
-
 ```
-lib/
-├── main.dart                 # Entry point aplikasi
-├── screens/                  # Halaman-halaman utama
-│   ├── home_screen.dart
-│   ├── biodata_screen.dart
-│   ├── kontak_screen.dart
-│   ├── kalkulator_screen.dart
-│   ├── cuaca_screen.dart
-│   └── berita_screen.dart
-├── widgets/                  # Custom widgets
-├── models/                   # Data models
-├── utils/                    # Utility functions
-└── assets/                   # Images, fonts, dll
+app_uts/
+├── assets/                  # Images, fonts, dan file lainnya
+├── android/                 # Konfigurasi Android
+├── ios/                     # Konfigurasi iOS
+├── lib/                     # Source code utama
+│   └── screens/             # Program Masing-Masing Screen
+        ├── berita_page.dart
+        ├── biodata_page.dart
+        ├── cuaca_page.dart
+        ├── dashboard_page.dart
+        ├── kalkulator_page.dart
+        ├── kontak_page.dart
+        ├── splash_screen.dart
+    ├── widgets/            # Navbar Button Custom
+        ├── custom_bottom_navbar.dart
+│   └── main.dart           # Entry point aplikasi
+├── linux/                   # Konfigurasi Linux
+├── macos/                   # Konfigurasi macOS
+├── web/                     # Konfigurasi Web
+├── windows/                 # Konfigurasi Windows
+└── test/                    # Unit dan widget tests
+├── .gitignore                # Git ignore file
+├── .metadata                 # Flutter metadata
+├── README.md                 # Project documentation
+├── analysis_options.yaml     # Dart analysis options
+├── pubspec.yaml             # Dependencies dan konfigurasi
+├── pubspec.lock             # Lock file untuk dependencies
 ```
 
 ## 🎨 Design & UI/UX
@@ -118,6 +131,7 @@ lib/
 **Nicky Aditya**
 - GitHub: [@NickyAditya](https://github.com/NickyAditya)
 - Project: UTS Pemrograman Mobile
+- Email: nicky.aditya@mhs.itenas.ac.id
 
 ## 📄 License
 
