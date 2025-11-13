@@ -89,6 +89,10 @@
 
 *Feed berita dan artikel terbaru*
 
+<img src="Screenshot_Apps/baca_selengkapnya_berita.jpg" alt="Berita Screen" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Tampilan Baca Selengkapnya Pada Berita*
+
 
 ## 🚀 Instalasi & Setup
 
