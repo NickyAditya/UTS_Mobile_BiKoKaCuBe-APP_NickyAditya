@@ -45,31 +45,49 @@
 ## 📱 Screenshot
 
 ### Splash Screen
-![Splash Screen](Screenshot_Apps/splash_screen.jpg)
+<img src="Screenshot_Apps/splash_screen.jpg" alt="Splash Screen" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Tampilan awal aplikasi saat pertama kali dibuka*
 
 ### Biodata Screen
-![Tampilan Biodata Awal](Screenshot_Apps/tampilan_biodata_awal.jpg)
+<img src="Screenshot_Apps/tampilan_biodata_awal.jpg" alt="Tampilan Biodata Awal" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Interface untuk mengelola data pribadi pengguna*
 
 ### Input Nama dan Gender
-![Isi Nama dan Gender Biodata](Screenshot_Apps/isi_nama_gender_biodata.jpg)
+<img src="Screenshot_Apps/isi_nama_gender_biodata.jpg" alt="Isi Nama dan Gender Biodata" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Form pengisian nama dan pemilihan gender*
 
 ### Input Tanggal Lahir
-![Isi Tanggal Lahir Biodata](Screenshot_Apps/isi_tgl_lahir_biodata.jpg)
+<img src="Screenshot_Apps/isi_tgl_lahir_biodata.jpg" alt="Isi Tanggal Lahir Biodata" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
 
-### Popup Data Tersimpan
-![Popup Data Biodata Disimpan](Screenshot_Apps/popup_data_biotada_disimpan.jpg)
+*Date picker untuk memilih tanggal lahir*
+
+### Konfirmasi Data Tersimpan
+<img src="Screenshot_Apps/popup_data_biotada_disimpan.jpg" alt="Popup Data Biodata Disimpan" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Popup konfirmasi ketika data berhasil disimpan*
 
 ### Kontak Screen
-![Kontak Screen](Screenshot_Apps/kontak_screen.jpg)
+<img src="Screenshot_Apps/kontak_screen.jpg" alt="Kontak Screen" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Interface untuk mengelola kontak*
 
 ### Kalkulator Screen
-![Calculator Screen](Screenshot_Apps/calculator_screen.jpg)
+<img src="Screenshot_Apps/calculator_screen.jpg" alt="Calculator Screen" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Kalkulator dengan fungsi matematika dasar*
 
 ### Cuaca Screen
-![Cuaca Screen](Screenshot_Apps/cuaca_screen.jpg)
+<img src="Screenshot_Apps/cuaca_screen.jpg" alt="Cuaca Screen" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Tampilan informasi cuaca terkini*
 
 ### Berita Screen
-![Berita Screen](Screenshot_Apps/berita_screen.jpg)
+<img src="Screenshot_Apps/berita_screen.jpg" alt="Berita Screen" width="300" style="border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+
+*Feed berita dan artikel terbaru*
 
 
 ## 🚀 Instalasi & Setup
