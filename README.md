@@ -44,7 +44,6 @@
 
 ## 📱 Screenshot
 
-```
 ### Splash Screen
 ![Splash Screen](Screenshot_Apps/splash_screen.jpg)
 
@@ -71,7 +70,7 @@
 
 ### Berita Screen
 ![Berita Screen](Screenshot_Apps/berita_screen.jpg)
-```
+
 
 ## 🚀 Instalasi & Setup
 
