@@ -45,13 +45,32 @@
 ## 📱 Screenshot
 
 ```
-[Tempat untuk screenshot aplikasi]
-- Home Screen
-- Biodata Page
-- Kontak Page
-- Kalkulator Page
-- Cuaca Page
-- Berita Page
+### Splash Screen
+![Splash Screen](Screenshot_Apps/splash_screen.jpg)
+
+### Biodata Screen
+![Tampilan Biodata Awal](Screenshot_Apps/tampilan_biodata_awal.jpg)
+
+### Input Nama dan Gender
+![Isi Nama dan Gender Biodata](Screenshot_Apps/isi_nama_gender_biodata.jpg)
+
+### Input Tanggal Lahir
+![Isi Tanggal Lahir Biodata](Screenshot_Apps/isi_tgl_lahir_biodata.jpg)
+
+### Popup Data Tersimpan
+![Popup Data Biodata Disimpan](Screenshot_Apps/popup_data_biotada_disimpan.jpg)
+
+### Kontak Screen
+![Kontak Screen](Screenshot_Apps/kontak_screen.jpg)
+
+### Kalkulator Screen
+![Calculator Screen](Screenshot_Apps/calculator_screen.jpg)
+
+### Cuaca Screen
+![Cuaca Screen](Screenshot_Apps/cuaca_screen.jpg)
+
+### Berita Screen
+![Berita Screen](Screenshot_Apps/berita_screen.jpg)
 ```
 
 ## 🚀 Instalasi & Setup
